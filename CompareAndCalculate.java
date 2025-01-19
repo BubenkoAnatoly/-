@@ -4,7 +4,7 @@ public class CompareAndCalculate {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         
-        // Ввод двух целых чисел
+        
         System.out.print("Введите первое число (a): ");
         int a = scanner.nextInt();
         System.out.print("Введите второе число (b): ");
